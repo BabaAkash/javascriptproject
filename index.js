@@ -1,7 +1,6 @@
 
 function mysubmit(){
     var  body = { 
-      
         fullname : document.getElementById("fullname").value,
         mobile_number : document.getElementById("mobile_number").value,
         passyear : document.getElementById("passyear").value,
